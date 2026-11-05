@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://6emrulhossain9.github.io/NUB-pages/sitemap.xml
