@@ -303,7 +303,7 @@ h2 { margin: 0; color: var(--navy); font-size: clamp(35px,4vw,52px); font-weight
 .site-footer { color: rgba(255,255,255,.67); background: #111744; }
 .footer-main { display: grid; grid-template-columns: 1.35fr 1fr 1.08fr 1fr 1.3fr; gap: 38px; padding-block: 67px 52px; }
 .brand-footer { gap: 10px; }
-.brand-footer img { width: 130px; }
+.brand-footer img { width: 130px; padding: 6px 8px; border-radius: 6px; background: #fff; box-shadow: 0 4px 14px rgba(0,0,0,.12); }
 .brand-footer .brand-name { color: #fff; }
 .brand-footer .brand-name span { color: rgba(255,255,255,.54); }
 .footer-brand-column > p { max-width: 210px; margin: 20px 0; color: rgba(255,255,255,.56); font-size: 11px; }
@@ -530,3 +530,4 @@ h2 { margin: 0; color: var(--navy); font-size: clamp(35px,4vw,52px); font-weight
   .campus-photo-small { min-height: 185px; }
   .footer-bottom > div { gap: 9px; }
 }
+
